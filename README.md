@@ -40,4 +40,3 @@ IoT-based solution using sensors and MQTT protocol for smart device communicatio
 
 ---
 
-## 📁 Project Structure

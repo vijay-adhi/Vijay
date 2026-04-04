@@ -1,6 +1,6 @@
-# 🌐 Vijay's Portfolio Website
+# 🌐 Vijay's Portfolio
 
-Welcome to my personal portfolio website!  
+Welcome to my personal portfolio!  
 This project showcases my skills, projects, and interests in **Web Development, Machine Learning, and IoT**.
 
 ---
